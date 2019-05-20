@@ -1,0 +1,75 @@
+USE bnresult;
+CREATE TABLE BIM1st(
+	id INT PRIMARY KEY NOT NULL,
+	name1 VARCHAR(30) NOT NULL,
+	sub1 INT,
+	sub2 INT,
+	sub3 INT,
+	sub4 INT,
+	sub5 INT
+);
+CREATE TABLE BIM2nd(
+	id INT PRIMARY KEY NOT NULL,
+	name1 VARCHAR(30) NOT NULL,
+	sub1 INT,
+	sub2 INT,
+	sub3 INT,
+	sub4 INT,
+	sub5 INT
+);
+CREATE TABLE BIM3rd(
+	id INT PRIMARY KEY NOT NULL,
+	name1 VARCHAR(30) NOT NULL,
+	sub1 INT,
+	sub2 INT,
+	sub3 INT,
+	sub4 INT,
+	sub5 INT
+);
+CREATE TABLE BIM4th(
+	id INT PRIMARY KEY NOT NULL,
+	name1 VARCHAR(30) NOT NULL,
+	sub1 INT,
+	sub2 INT,
+	sub3 INT,
+	sub4 INT,
+	sub5 INT
+);
+CREATE TABLE BIM5th(
+	id INT PRIMARY KEY NOT NULL,
+	name1 VARCHAR(30) NOT NULL,
+	sub1 INT,
+	sub2 INT,
+	sub3 INT,
+	sub4 INT,
+	sub5 INT
+);
+CREATE TABLE BIM6th(
+	id INT PRIMARY KEY NOT NULL,
+	name1 VARCHAR(30) NOT NULL,
+	sub1 INT,
+	sub2 INT,
+	sub3 INT,
+	sub4 INT,
+	sub5 INT,
+	sub6 INT
+);
+CREATE TABLE BIM7th(
+	id INT PRIMARY KEY NOT NULL,
+	name1 VARCHAR(30) NOT NULL,
+	sub1 INT,
+	sub2 INT,
+	sub3 INT,
+	sub4 INT,
+	sub5 INT,
+	sub6 INT
+);
+CREATE TABLE BIM8th(
+	Id INT PRIMARY KEY NOT NULL,
+	Name1 VARCHAR(30) NOT NULL,
+	sub1 INT,
+	sub2 INT,
+	sub3 INT,
+	sub4 INT,
+	sub5 INT
+);
